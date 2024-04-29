@@ -1,0 +1,55 @@
+body{
+    margin: 50px ;
+    padding: 10px 10px 10px 10px ;
+    border: 1px  solid;
+}
+form{
+   
+   
+}
+div{
+    
+    
+}
+.form{
+    display: flex;
+    justify-content: end;
+    margin: 10px 10px 10px 10px ;
+    border: 1px solid;
+    
+
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    margin: 50px ;
+    border: 2px solid;
+   
+}
+
+
+
+input{
+    padding: 2px;
+    margin: 4px;   
+}
+#name{
+    margin-left: 80px;
+}
+#email{
+    margin-left: 80px;
+}
+#ph{
+    margin-left: 60px;
+}
+#seats{
+    margin: 5px;
+    margin-left: 13px;
+}
+#attendee{
+    margin-left: 5px;
+}
+.but{
+    padding: 5px;
+    
+}
